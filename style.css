@@ -1,0 +1,59 @@
+body {
+    background-color: white;}
+
+.menu {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+img {
+    margin: 20px;
+}
+
+input, button {
+    margin: 10px;
+    outline: none;
+}
+
+button {
+    margin-left: 40px;
+    width: 70px;
+}
+
+input {
+    border: 1px solid #8d99ae;
+    width: 200px;
+    height: 40px;
+    border-radius: 8px;
+}
+
+#vendas {
+    margin-right: 85px;
+}
+
+#salario {
+    margin-right: 25px;
+}
+
+#botao{
+    margin-left: 20px;
+    color: white;
+    font-weight: 700;
+    background-color: #434a96;
+    border: none;
+    box-shadow: 10px 10px 10px gray;
+}
+
+#botao:hover {
+    background-color: #ef233c;
+}
+
+ h3 {
+    font-family: 'Bebas Neue', cursive;
+     color: #8d99ae;
+     font-size: 30px;
+ }
+
